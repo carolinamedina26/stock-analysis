@@ -6,11 +6,15 @@ The goal of this project is to create a Macro that is able to provide the desire
 
 # Analysis
 ## 2.0 Annual Analysis
-The **2017** analysis displayed an overall positive return on most of the tickers, the **higher return was 184.5%** on the stock **SEDG** and the lower positive return was  5.5% on the RUN ticker. The single ticker that display a **negative return is TERP with -7.2%**.**[(See Chart)]**(VBA_Challenge_2017.png.png)
+The **2017** analysis displayed an overall positive return on most of the tickers, the **higher return was 184.5%** on the stock **SEDG** and the lower positive return was  5.5% on the RUN ticker. The single ticker that display a **negative return is TERP with -7.2%**.**[(See Chart)](VBA_Challenge_2017.png.png)**
 
-The **2018** analysis displayed an **overall negative** return on most of the tickers.  The **only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.** **[(See Chart)](VBA_Challenge_2018.png.png)** This stocks has experince an accumutated growth both years and are recommendet to invest in.  
+The **2018** analysis displayed an **overall negative** return on most of the tickers.  The **only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.** **[(See Chart)](VBA_Challenge_2018.png.png)** .
+
+**2.3 Final Analyis**
+This analysis has resulted in 2 *positive return tickets* over the period of two years and are recomended for investment. 
 ` RUN Return = 89.5%,
   ENPH Return = 211.4% `
+  
 
 ## 2.1 Refactored Code
 On the table above we can evidence how the refactoring reduced the waiting time of 
