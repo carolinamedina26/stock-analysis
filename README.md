@@ -10,7 +10,7 @@ The **2017** analysis displayed an overall positive return on most of the ticker
 
 The **2018** analysis displayed an **overall negative** return on most of the tickers.  The **only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.** **[(See Chart)](VBA_Challenge_2018.png.png)** .
 
-**2.3 Final Analyis**
+## 2.3 Final Analyis ##
 This analysis has resulted in 2 *positive return tickets* over the period of two years and are recomended for investment. 
 ` RUN Return = 89.5%,
   ENPH Return = 211.4% `
