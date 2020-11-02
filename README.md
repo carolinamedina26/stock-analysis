@@ -10,13 +10,13 @@ The **2017** analysis displayed an overall positive return on most of the ticker
 
 The **2018** analysis displayed an **overall negative** return on most of the tickers.  The **only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.** **[(See Chart)](VBA_Challenge_2018.png.png)** .
 
-## 2.3 Final Analyis ##
+## 2.1 Final Analyis ##
 This analysis has resulted in 2 *positive return tickets* over the period of two years and are recomended for investment. 
 ` RUN Return = 89.5%,
   ENPH Return = 211.4% `
   
 
-## 2.1 Refactored Code
+## 2.2 Refactored Code
 On the table above we can evidence how the refactoring reduced the waiting time of 
 On the initial analysis ran in 0.4375 seconds for 2017 and , which was improve by refactoring the code. The way we improve the code was by the creating of a new variable `tickerIndex` to access the correct index. After this changes the code was simplified, for example: 
 
