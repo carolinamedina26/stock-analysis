@@ -12,8 +12,9 @@ The **2018** analysis displayed an **overall negative** return on most of the ti
 
 ## 2.1 Final Analyis ##
 This analysis has resulted in 2 *positive return tickets* over the period of two years and are recomended for investment. 
-` RUN Return = 89.5%,
-  ENPH Return = 211.4% `
+` RUN Return = 89.5%`
+
+  `ENPH Return = 211.4% `
   
 
 ## 2.2 Refactored Code
