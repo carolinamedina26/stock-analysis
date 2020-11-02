@@ -14,6 +14,7 @@ On the table above we can evidence how the refactoring reduced the waiting time 
 On the initial analysis ran in 0.4375 seconds for 2017 and , which was improve by refactoring the code. The way we improve the code was by the creating of a new variable `tickerIndex` to access the correct index. After this changes the code was simplified, for example: 
 
 To obtain the `totalVolume` our code need it to have a conditional `ifhen` to located the tickers
+
 `
 If Cells(j, 1).Value = ticker Then`
             
