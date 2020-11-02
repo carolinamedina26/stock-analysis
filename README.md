@@ -15,11 +15,11 @@ On the initial analysis ran in 0.4375 seconds for 2017 and , which was improve b
 
 To obtain the `totalVolume` our code need it to have a conditional `ifhen` to located the tickers
 `
-If Cells(j, 1).Value = ticker Then
+If Cells(j, 1).Value = ticker Then`
             
-                totalVolume = totalVolume + Cells(j, 8).Value
+                `totalVolume = totalVolume + Cells(j, 8).Value`
                 
-            End If`
+           ` End If `
 
 After the new variable ‘tickerIndex` was introduce the task could be simplified by since the is part of the index. 
 
