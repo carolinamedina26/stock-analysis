@@ -1,6 +1,6 @@
 # Overview
 ## 1.0 Introduction
-The Stock Market is a form of investment, in which financial brokers base their decision according to the stock performance to determine and predict their future value. In the following analysis, we’ll take a closer look to different variables such as volume traded and return value of 12 stocks on the green energy industry, obtain their performance during several years and understanding which tickers is the safest investment. 
+The Stock Market is a form of investment, in which financial brokers base their decision according to the stock performance overtime. In the following analysis, we’ll take a closer look to different variables such as volume traded and return value of 12 stocks in the green energy industry and determine  their performance and which tickers is the best investment. 
 ## 1.1 Background
 The goal of this project is to create a Macro that is able to provide the desired analysis of large datasets  in a short period of time, as well as,  a friendly interface for the user. For this reason, the initial code has been refactor to improve the time performance and redability of the analysis. 
 
@@ -8,7 +8,9 @@ The goal of this project is to create a Macro that is able to provide the desire
 ## 2.0 Annual Analysis
 The **2017** analysis displayed an overall positive return on most of the tickers, the **higher return was 184.5%** on the stock **SEDG** and the lower positive return was  5.5% on the RUN ticker. The single ticker that display a **negative return is TERP with -7.2%**.**[(See Chart)]**(VBA_Challenge_2017.png.png)
 
-The **2018** analysis displayed an **overall negative** return on most of the tickers.  The ** only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.**[(See Chart)](VBA_Challenge_2018.png.png) **
+The **2018** analysis displayed an **overall negative** return on most of the tickers.  The **only tickers  with positive returns were ENPH and RUN with 81.9 % and 84 % respectively.** **[(See Chart)](VBA_Challenge_2018.png.png)** This stocks has experince an accumutated growth both years and are recommendet to invest in.  
+` RUN Return = 89.5%,
+  ENPH Return = 211.4% `
 
 ## 2.1 Refactored Code
 On the table above we can evidence how the refactoring reduced the waiting time of 
